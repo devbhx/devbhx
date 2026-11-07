@@ -20,7 +20,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, construindo soluções que 
 
 ### 🇧🇷 Português
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na UniCesumar, com foco em desenvolvimento de software, programação e automação.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** , com foco em desenvolvimento de software, programação e automação.
 
 Minha trajetória inclui experiência em **empreendedorismo, marketing digital e e-commerce**, envolvendo gestão de negócios, criação de lojas virtuais, tráfego pago e análise de métricas.
 
@@ -30,7 +30,7 @@ Tenho interesse em desenvolvimento de software, inteligência artificial, automa
 
 ### 🇺🇸 English
 
-I'm a **Systems Analysis and Development student** at UniCesumar, focused on software development, programming, and automation.
+I'm a **Systems Analysis and Development student** , focused on software development, programming, and automation.
 
 My background includes **entrepreneurship, digital marketing, and e-commerce**, with experience in business management, online store development, paid advertising, and performance analytics.
 
