@@ -47,7 +47,6 @@ Sistema em desenvolvimento para criação, organização e gerenciamento de orç
 
 **Tecnologia em Análise e Desenvolvimento de Sistemas**
 
-UniCesumar — Em andamento
 
 ## 🌎 Interesses | Interests
 
