@@ -116,20 +116,6 @@ The project aims to simplify the quoting process, improve information management
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=devbhx&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbhx&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
-
-</div>
-
-> As estatísticas refletem a atividade pública disponível e podem não representar todos os projetos ou conhecimentos técnicos.
-
----
-
 ## 🎯 Objetivos profissionais | Career Goals
 
 ### 🇧🇷 Português
