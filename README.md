@@ -26,7 +26,8 @@ I'm currently building **QuoteFlow**, a SaaS project that combines hands-on soft
 - **Linguagem:** Python
 - **Versionamento:** Git & GitHub
 - **Fundamentos:** Lógica de programação, algoritmos e Portugol
-- **Em desenvolvimento:** Programação orientada a objetos e desenvolvimento de aplicações
+- **Projetos** Desenvolvimento de aplicações e soluções SaaS
+
 
 ## 🚀 Projeto em destaque | Featured Project
 
