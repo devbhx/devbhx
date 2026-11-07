@@ -97,7 +97,7 @@ The project aims to simplify the quoting process, improve information management
 
 ### Tecnologia em Análise e Desenvolvimento de Sistemas
 
-**UniCesumar**
+
 
 *Systems Analysis and Development — Technology Degree Program*
 
